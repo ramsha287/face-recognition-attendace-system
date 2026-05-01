@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+pandas
+requests
+python-multipart
+numpy
+gspread
+oauth2client
+pillow
+opencv-contrib-python
+mediapipe
+facenet-pytorch
+torch
+torchvision
