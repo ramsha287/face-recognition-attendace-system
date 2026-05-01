@@ -3,7 +3,6 @@ venv310/
 __pycache__/
 *.pyc
 attendance.csv
-faces/
 data/
 .env
 credentials.json
